@@ -4,7 +4,7 @@
     Name: "Blog website with comments"
     Programming language: Ruby 
     Framework: Bulma
-    Programming environment: Sublime Text       
+    Programming environment: Sublime Text Editor     
     
     Author: Łukasz Gołojuch
     
